@@ -6,11 +6,5 @@ For comprehensive methods and results, please refer to our study:
 
 > **"Induced leaf tannins are common in woody plants, but evidence is limited in non‑woody plants."**
 
-**Authors:** Keke Sun¹, Jianwei Wang¹, Yanling Zhang¹*, Luis Abdala‑Roberts², Yaolin Guo³*  
-**Affiliations:**  
-¹ Zhengzhou Tobacco Research Institute of CNTC, Zhengzhou, China  
-² Universidad Nacional Autónoma de México, Escuela Nacional de Estudios Superiores‑Unidad Mérida, Carretera Mérida‑Tetiz Km. 4.5, Ucú, Yucatán, México, 97357  
-³ School of Renewable Natural Resources, Louisiana State University Agricultural Center, Baton Rouge, LA 70803, USA
-
 **Corresponding authors:** Yanling Zhang ([zhangyanling@ztri.com.cn](mailto:zhangyanling@ztri.com.cn)); Yaolin Guo ([yguo@agcenter.lsu.edu](mailto:yguo@agcenter.lsu.edu))
 
