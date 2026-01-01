@@ -4,6 +4,6 @@ This page summarizes a quantitative synthesis on **induced leaf tannins** as a p
 
 For comprehensive methods and results, please refer to our study:
 
-> **"Induced leaf tannins are common in woody plants, but evidence is limited in non‑woody plants."**
+> **"Heterogeneity in leaf tannin inducibility across woody and non-woody plants: a multilevel meta-analysis."**
 
 **Corresponding authors:** Yaolin Guo ([yguo@agcenter.lsu.edu](mailto:yguo@agcenter.lsu.edu))
